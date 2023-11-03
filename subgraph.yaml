@@ -17,6 +17,9 @@ dataSources:
         - Approval
         - OwnershipTransferred
         - Transfer
+        - User
+        - UserCounter
+        - TransferCounter
       abis:
         - name: BladeDAOToken
           file: ./abis/BladeDAOToken.json
